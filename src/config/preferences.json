@@ -79,11 +79,11 @@
     "link": "https://idesa.salta.gob.ar/"
   },
   "logoText": {
-    "content": "Gob. de Salta",
-    "title":"SALTA",
-    "link": "https://salta.gob.ar/"
+    "content": "Gob. de SC",
+    "title":"S.C",
+    "link": "https://dag/"
   },
-  "title": "MAPAS IDESA",
+  "title": "MAPAS dag",
   "website": "https://idesa.salta.gob.ar/",
   "favicon": "src/styles/images/idesa_nav.png",
   "geoprocessing": {
